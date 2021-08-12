@@ -28,6 +28,10 @@ export const Logo = styled.div`
   @media screen and (max-width: 280px) {
     margin-left: 0;
   }
+
+  @media screen and (max-width: 414px) {
+    margin-left: 0.45rem;
+  }
 `;
 
 export const GiMountain = styled(GiMountains)`
