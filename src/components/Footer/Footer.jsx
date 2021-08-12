@@ -10,7 +10,7 @@ const Footer = ({ mt }) => {
         background: "#263238",
         textAlign: "center",
         color: "#f4f4f4",
-        marginTop: mt !== null ? mt : "2rem",
+        marginTop: mt,
       }}
     >
       <div className="icons">

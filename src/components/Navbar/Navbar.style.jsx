@@ -10,7 +10,7 @@ export const Wrapper = styled.div`
   display: flex;
   justify-content: space-between;
   align-items: center;
-  max-width: 1300px;
+
   width: 100%;
   margin: 0 auto;
   /* border: 1px solid black; */

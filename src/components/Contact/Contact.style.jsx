@@ -4,7 +4,11 @@ export const Wrapper = styled.div`
   width: 100%;
   height: 250px;
   margin-top: 40px;
-  margin-bottom: 45px;
+  margin-bottom: 75px;
+
+  @media screen and (max-width: 1024px) {
+    margin-bottom: 35px;
+  }
 `;
 
 export const FormDiv = styled.div`

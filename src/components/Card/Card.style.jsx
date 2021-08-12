@@ -29,7 +29,7 @@ export const ImgContainer = styled.div`
 
 export const Image = styled.img`
   object-fit: cover;
-  /* height: 250px; */
+  height: 250px;
   display: block;
   width: 100%;
   height: 100%;
@@ -47,7 +47,7 @@ export const Content = styled.div`
   background-color: #fff;
   color: #000;
   width: 100%;
-  height: 120px;
+  height: 190px;
   box-shadow: 7px 4px 4px #aaaaaa;
   text-align: center;
   transition: all 0.5s ease-in-out;

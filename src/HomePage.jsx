@@ -21,7 +21,7 @@ const HomePage = () => {
       />
       <PopularTrek title="Popular Treks" />
       <Contact />
-      <Footer />
+      <Footer mt="2rem" />
     </>
   );
 };
